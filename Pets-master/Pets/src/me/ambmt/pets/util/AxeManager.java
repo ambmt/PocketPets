@@ -25,7 +25,6 @@ public class AxeManager {
 			return;
 		if (!item.containsEnchantment(Enchantment.DIG_SPEED))
 			return;
-
 		NBTItem nbtItem = new NBTItem(item);
 		if (!nbtItem.hasNBTData())
 			return;

@@ -32,7 +32,7 @@ public class AxeEnchantmentRemover implements Listener {
 		AxeManager.removeEfficiencyEnchantment(clickedItem);
 		Bukkit.getScheduler().runTaskLater(Pets.getPlugin(Pets.class), () -> {
 			player.updateInventory();
-		}, 1);
+		}, );
 	}
 
 	@EventHandler
