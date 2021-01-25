@@ -1,0 +1,11 @@
+main: me.ambmt.pets.Pets
+name: Pets
+version: 1.0
+author: ambmt
+softdepend: [Vault]
+depend: [NBTAPI]
+
+api-version: 1.12
+
+commands:
+  pets:

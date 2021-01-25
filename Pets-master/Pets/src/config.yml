@@ -1,0 +1,15 @@
+pets:
+  tiger:
+    skin: "TigDra"
+  dolphin:
+    skin: "Test"
+  panda:
+    skin: "Can"
+  goblin:
+    skin: "Test"
+  dragon:
+    skin: "Test"
+    
+leveling-timer: 5
+
+experience-gain: 1
