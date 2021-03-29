@@ -8,7 +8,7 @@ pets:
   goblin:
     skin: "Test"
   dragon:
-    skin: "Test"
+    skin: "Dragon"
     
 leveling-timer: 5
 
